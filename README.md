@@ -1,7 +1,8 @@
 # slickly-tings
-- slickly-tings is Swiper slider carousel
-- 
-- 
+
+- slickly-tings is Swiper slider carousel.
+- Image Slider in React.
+- Made carousel or slider using Swiper JS.
 
 # React + Vite
 
