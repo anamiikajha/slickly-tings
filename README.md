@@ -1,6 +1,7 @@
 # slickly-tings
 - slickly-tings is Swiper slider carousel
 - 
+- 
 
 # React + Vite
 
