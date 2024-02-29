@@ -18,16 +18,16 @@ function Slider() {
     
   >
     <SwiperSlide>
-    <img src="public/kali.jpg" alt="" style={{width: "100%", height: "100vh"}}/>
+    <img src="/kali.jpg" alt="" style={{width: "100%", height: "100vh"}}/>
     </SwiperSlide>
     <SwiperSlide>
-    <img src="public/background.jpg" alt="" style={{width:"100%", height: "100vh"}} />
+    <img src="/background.jpg" alt="" style={{width:"100%", height: "100vh"}} />
         </SwiperSlide>
     <SwiperSlide>
-    <img src="public/bg.png" alt=""  style={{width: "100%", height: "100vh"}} />
+    <img src="/bg.png" alt=""  style={{width: "100%", height: "100vh"}} />
     </SwiperSlide>
     <SwiperSlide>
-    <img src="public/g.jpg" alt=""  style={{width: "100%", height: "100vh"}} />
+    <img src="/g.jpg" alt=""  style={{width: "100%", height: "100vh"}} />
     </SwiperSlide>
   </Swiper>
   )
